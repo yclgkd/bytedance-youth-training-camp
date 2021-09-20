@@ -1,0 +1,15 @@
+{
+  "name": "03-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brian",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^2.3.0",
+    "sequelize": "^6.6.5"
+  }
+}
